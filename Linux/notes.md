@@ -8,6 +8,7 @@ Several Contents are based on HTB Academy
 ## Linux Basics Command
 
 ### Manual of command
+```
 To see detail manual and its explanations, run:
 man <name_of_command>, ex: man ls
 
