@@ -2,7 +2,7 @@
 ```
 notes:
 
-Several Content is based on Pro git book,
+Several Contents are based on Pro git book,
 Thanks for all the contributors of the book
 
 this guides is performed in linux environment
@@ -11,8 +11,9 @@ to get the book:
 https://git-scm.com/book
 
 1. Installing Git
-2. Setup config global git
-3. Setup SSH Key
+2. Setup Git Config
+3. Playing with git
+4. Adding SSH Key to github
 
 ## Installing Git
 ```
